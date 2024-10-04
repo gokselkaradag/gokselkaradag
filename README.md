@@ -1,15 +1,13 @@
-Selamlar! Ben Göksel Karadağ. Yazılım geliştirme ve teknoloji tutkunu bir yazılımcıyım. Şu anda Acunmedya Akademi'de backend yazılım eğitimi alıyorum. Özellikle web geliştirme, ASP.NET MVC ve MSSQL gibi teknolojilerle çalışmaktan keyif alıyorum. Yeni şeyler öğrenmeyi, karmaşık problemleri çözmeyi ve kullanıcı dostu, ölçeklenebilir yazılım çözümleri geliştirmeyi seviyorum.
+Hello! I’m Göksel Karadağ, a software developer with a deep interest in the world of software development, constantly striving to improve myself. Through my training in Backend Software Development at Acun Medya Academy, I’ve specialized in ASP.NET MVC, MSSQL, Web API, and various web technologies. I enjoy learning new technologies, solving complex problems, and developing user-friendly, scalable software solutions.
 
-Geliştirdiğim projelerle ilgili geri bildirimlere ve açık kaynak projelere katkı sağlamaya her zaman açığım. Kodlamanın yanı sıra, teknik topluluklarda aktif olarak yer alıyor ve bilgi paylaşımını önemsiyorum.
+I am always open to contributing to open-source projects and welcome feedback on my work. Additionally, I actively participate in technical communities and value knowledge sharing. Solving complex problems and developing solutions that meet users' needs is a passion of mine. I take pleasure in experimenting with innovative approaches and continuously learning in every project.
 
-Uzmanlık Alanlarım;
-
-C#
-
-SQL
-
-Asp.Net
-
-Asp.Net Core
-
-Entity Framework
+My Expertise:
+* C#
+* SQL
+* Web API
+* ASP.NET
+* ASP.NET MVC
+* ASP.NET Core
+* Entity Framework
+* HTML, CSS, JavaScript
