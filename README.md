@@ -13,10 +13,6 @@ Yazılım geliştirme dünyasına duyduğum derin ilgiyle sürekli kendimi geli�
 
 Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili geri bildirimlere her zaman açığım. Ayrıca, teknik topluluklarda aktif olarak yer alıyor ve bilgi paylaşımını önemsiyorum. Karmaşık problemleri çözmek ve kullanıcıların ihtiyaçlarına hitap eden çözümler geliştirmek benim için bir tutku. Her projede yenilikçi yaklaşımlar denemekten ve sürekli olarak öğrenmekten keyif alıyorum.
 
-## 📈 GitHub İstatistiklerim
-
-![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=Breadcrumbsgokselkaradag&show_icons=true&theme=radical&cache_seconds=86400)
-
 ## 📫 Bana Ulaşın
 
 - **E-posta:** gokselkrdg@gmail.com
