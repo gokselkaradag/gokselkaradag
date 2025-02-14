@@ -19,9 +19,17 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
 
 ## 📫 Bana Ulaşın
 
-- **📧 E-posta:** gokselkrdg@gmail.com
-- **💼 LinkedIn:** [https://www.linkedin.com/in/gokselkrdg/](https://www.linkedin.com/in/gokselkrdg/)
-- **🌐 Kişisel Web Sitesi:** [https://gokselkaradag.com.tr](https://gokselkaradag.com.tr)
+<p align="left">
+    <a href="https://www.linkedin.com/in/gokselkrdg/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+    <a href="https://gokselkaradag.com.tr" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="40" height="40"/>
+  </a>
+  <a href="gokselkrdg@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🎯 Hedeflerim
 
