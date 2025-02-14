@@ -26,7 +26,7 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
     <a href="https://gokselkaradag.com.tr" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" width="40" height="40"/>
   </a>
-  <a href="gokselkrdg@gmail.com">
+  <a href="mailto:gokselkrdg@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
