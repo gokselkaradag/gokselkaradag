@@ -12,6 +12,8 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
 
 ## 📈 GitHub İstatistiklerim
 
+![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=tokyonight)
+
 ![GitHub İstatistiklerim](https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical)
 
 ## 📫 Bana Ulaşın
