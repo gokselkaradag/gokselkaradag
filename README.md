@@ -4,7 +4,7 @@ Yazılım geliştirme dünyasına duyduğum derin ilgiyle sürekli kendimi geli�
 
 ## 🚀 Uzmanlık Alanlarım
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,postman,rabbitmq,redis,docker,visualstudio,vscode,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,postman,rabbitmq,redis,docker,postgres,visualstudio,vscode,rider)](https://skillicons.dev)
 
 ## 🌱 Sürekli Öğrenme ve Katkı
 
