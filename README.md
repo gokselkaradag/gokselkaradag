@@ -13,8 +13,16 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
 ## 📈 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=cobalt" height="180">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=cobalt" height="180">
+
+  <!-- Genel Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&rank_icon=github" height="180" />
+
+  <!-- Diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical" height="180" />
+
+  <!-- Streak (günlük katkı serisi) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=false" height="180" />
+
 </div>
 
 ## 📫 Bana Ulaşın
