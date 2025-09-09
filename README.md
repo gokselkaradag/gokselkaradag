@@ -20,9 +20,6 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
   <!-- Diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical" height="180" />
 
-
-  <img src="https://streak-stats.demolab.com?user=gokselkaradag&theme=highcontrast&date_format=M%20j%5B,%20Y%5D&v=1" height="180" />
-
 </div>
 
 ## 📫 Bana Ulaşın
