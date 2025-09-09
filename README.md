@@ -20,7 +20,7 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
   <!-- Diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical" height="180" />
 
-  <!-- Streak (günlük katkı serisi) -->
+  <!-- Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=false" height="180" />
 
 </div>
