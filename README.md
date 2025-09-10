@@ -16,24 +16,18 @@ Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderl
 
 ## 📊 GitHub İstatistiklerim  
 
-<!-- Stats en üstte -->
-![Stats](https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+<div align="center">
 
-<!-- Alt satırda yan yana Languages & Streak -->
-<table>
-<tr>
-<td>
+<!-- Üstte ortalanmış Stats -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true)
-
-</td>
-<td>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true)
-
-</td>
-</tr>
-</table>
+<!-- Altta yan yana ortalanmış Languages & Streak -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="180"/>
+</p>
 
 </div>
 
