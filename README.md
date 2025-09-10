@@ -26,7 +26,7 @@ Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderl
 <!-- Altta yan yana Languages & Streak eşit boyda -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="240"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="170"/>
 </p>
 
 </div>
