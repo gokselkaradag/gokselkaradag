@@ -18,15 +18,15 @@ Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderl
 
 <div align="center">
 
-<!-- Üstte ortalanmış Stats -->
+<!-- Üstte Stats -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 </p>
 
-<!-- Altta yan yana ortalanmış Languages & Streak -->
+<!-- Altta yan yana Languages & Streak eşit boyda -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="200"/>
 </p>
 
 </div>
