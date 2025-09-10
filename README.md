@@ -18,9 +18,13 @@ Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderl
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true&count_private=true)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true)  
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gokselkaradag&theme=radical)  
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gokselkaradag&theme=radical) 
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gokselkaradag&theme=radical)  
+
+![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gokselkaradag&theme=radical&utcOffset=3) 
+![Streak](http://github-profile-summary-cards.vercel.app/api/cards/streak?username=gokselkaradag&theme=radical)  
 
 </div>
 
