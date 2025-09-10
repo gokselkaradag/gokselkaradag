@@ -1,24 +1,26 @@
-# 👋 Merhaba, Ben Göksel Karadağ
+## 👋 Merhaba, Ben Göksel Karadağ  
 
-Yazılım geliştirme dünyasına duyduğum derin ilgiyle sürekli kendimi geliştiren bir yazılımcıyım. Acun Medya Akademi’de aldığım Backend Yazılım eğitimi sayesinde, ASP.NET MVC, MSSQL, Web API ve çeşitli web teknolojileri konusunda uzmanlaştım. Yeni teknolojiler öğrenmeyi, karmaşık problemleri çözmeyi ve kullanıcı dostu, ölçeklenebilir yazılım çözümleri geliştirmeyi seviyorum.
+Benim için teknoloji, yalnızca kodlardan ibaret değil; insan hayatına dokunacak çözümler üretmenin aracı.  
+Xbeg Craft - Human AirDrop CEO'su olarak vizyonumuzu hayata geçirmek için çalışıyor, geleceğin insani yardım ve lojistik anlayışını yeniden şekillendirmeyi amaçlıyorum.  
+
+Her adımımda yenilik, cesaret ve sürdürülebilir değer üretme arzusu var.  
 
 ## 🚀 Uzmanlık Alanlarım
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,git,github,postman,rabbitmq,redis,docker,postgres,visualstudio,vscode,rider)](https://skillicons.dev)
 
-## 🌱 Sürekli Öğrenme ve Katkı
+## 🌍 Vizyon ve Liderlik  
+Teknolojiyi insana dokunan çözümler üretmek için kullanmaya inanıyorum.  
+Ekip çalışması, inovasyon ve sürdürülebilir yazılım çözümleri geliştirmek önceliklerim arasında.  
+Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderlik yolculuğumda teknoloji ve insani değerleri birleştirmeyi hedefliyorum.  
 
-Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili geri bildirimlere her zaman açığım. Ayrıca, teknik topluluklarda aktif olarak yer alıyor ve bilgi paylaşımını önemsiyorum. Karmaşık problemleri çözmek ve kullanıcıların ihtiyaçlarına hitap eden çözümler geliştirmek benim için bir tutku. Her projede yenilikçi yaklaşımlar denemekten ve sürekli olarak öğrenmekten keyif alıyorum.
-
-## 📈 GitHub İstatistiklerim
+## 📊 GitHub İstatistiklerim  
 
 <div align="center">
 
-  <!-- Genel Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&rank_icon=github" height="180" />
-
-  <!-- Diller -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical" height="180" />
+![Stats](https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true&count_private=true)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true)  
 
 </div>
 
@@ -36,11 +38,11 @@ Açık kaynak projelere katkıda bulunmaya ve geliştirdiğim projelerle ilgili 
   </a>
 </p>
 
-## 🎯 Hedeflerim
-
-- Yeni teknolojiler öğrenmek ve bunları projelerimde uygulamak.
-- Açık kaynak dünyasında daha fazla katkıda bulunmak.
-- Yazılım mimarisi ve tasarım desenleri konusunda derinlemesine bilgi sahibi olmak.
+## 🎯 Hedeflerim  
+- Human AirDrop vizyonunu hayata geçirmek  
+- Global ölçekte insana dokunan teknolojiler geliştirmek  
+- Yazılım mimarisi ve liderlikte uzmanlaşmak  
+- Açık kaynak dünyasında kalıcı katkılar sağlamak
 
 ---
 
