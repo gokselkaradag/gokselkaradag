@@ -1,9 +1,10 @@
 ## 👋 Merhaba, Ben Göksel Karadağ  
 
-Benim için teknoloji, yalnızca kodlardan ibaret değil; insan hayatına dokunacak çözümler üretmenin aracı.  
-Xbeg Craft - Human AirDrop CEO'su olarak vizyonumuzu hayata geçirmek için çalışıyor, geleceğin insani yardım ve lojistik anlayışını yeniden şekillendirmeyi amaçlıyorum.  
+Benim için teknoloji sadece kod yazmak değil; insan yaşamına değer katan çözümler üretmenin bir yoludur.
+Her projede amacım, yenilikçi fikirleri gerçek dünyaya taşımak ve dijital dünyanın sınırlarını biraz daha genişletmek.
 
-Her adımımda yenilik, cesaret ve sürdürülebilir değer üretme arzusu var.  
+Kod yazarken geleceği inşa ettiğime inanıyorum, bu yüzden her satırda sürdürülebilirlik, cesaret ve anlam arıyorum.
+Yolculuğumda hedefim; insana dokunan, etkili ve kalıcı teknolojiler üretmek
 
 ## 🚀 Uzmanlık Alanlarım
 
@@ -45,8 +46,7 @@ Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderl
   </a>
 </p>
 
-## 🎯 Hedeflerim  
-- Human AirDrop vizyonunu hayata geçirmek  
+## 🎯 Hedeflerim   
 - Global ölçekte insana dokunan teknolojiler geliştirmek  
 - Yazılım mimarisi ve liderlikte uzmanlaşmak  
 - Açık kaynak dünyasında kalıcı katkılar sağlamak
