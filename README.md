@@ -19,16 +19,16 @@ Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderl
 
 <div align="center">
 
-<!-- Üstte Stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-</p>
+  <a href="https://github.com/gokselkaradag">
+    <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true" alt="Göksel's GitHub Stats" />
+  </a>
 
-<!-- Altta yan yana Languages & Streak eşit boyda -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="240"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="170"/>
-</p>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=radical&hide_border=true" height="165" alt="GitHub Streak" />
+  </p>
 
 </div>
 
