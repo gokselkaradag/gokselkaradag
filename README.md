@@ -13,28 +13,7 @@ Yolculuğumda hedefim; insana dokunan, etkili ve kalıcı teknolojiler üretmek
 ## 🌍 Vizyon ve Liderlik  
 Teknolojiyi insana dokunan çözümler üretmek için kullanmaya inanıyorum.  
 Ekip çalışması, inovasyon ve sürdürülebilir yazılım çözümleri geliştirmek önceliklerim arasında.  
-Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderlik yolculuğumda teknoloji ve insani değerleri birleştirmeyi hedefliyorum.  
-
-## 📊 GitHub İstatistiklerim  
-
-<div align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokselkaradag&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  </a>
-
-  <br/>
-
-  <p align="center">
-    <a href="https://github.com/gokselkaradag">
-      <img src="https://github-readme-stats.vercel.app/api?username=gokselkaradag&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/gokselkaradag">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokselkaradag&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Langs" />
-    </a>
-  </p>
-
-</div>
+Bir yandan açık kaynak topluluklarına katkı sağlarken, diğer yandan liderlik yolculuğumda teknoloji ve insani değerleri birleştirmeyi hedefliyorum.
 
 ## 📫 Bana Ulaşın
 
